@@ -29,9 +29,9 @@ I love building solutions with code, learning new technologies, and sharing know
 
 ## 📌 Featured Projects  
 
-🔹 [Sonar Rock vs Mine Classification](https://github.com/your-username/sonar-rock-mine-classification) – Logistic Regression model to classify sonar signals.  
+🔹 [Sonar Rock vs Mine Classification](https://github.com/Harshhhp/Rock-And-Mine-Prediction) – Logistic Regression model to classify sonar signals.  
 🔹 [Diabetes Prediction Model](https://github.com/your-username/diabetes-prediction) – ML model to predict diabetes using health parameters.  
-🔹 [Car Website Project](https://github.com/your-username/car-website) – React + Django based car listing & EMI calculator website.  
+🔹 [Car Website Project](https://github.com/Harshhhp/GearVana) – React + Django based car listing & EMI calculator website.  
 
 ---
 
